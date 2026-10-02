@@ -40,7 +40,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 - [Matcha](https://matcha.xyz) - Aggregator by 0x with professional trading UI
 - [ParaSwap](https://paraswap.io) ([source code](https://github.com/paraswap)) - Multi-chain aggregator with MEV protection
 - [CoW Swap](https://cow.fi) ([source code](https://github.com/cowprotocol), [docs](https://docs.cow.fi/)) - MEV-protected trading via batch auctions and off-chain order matching
-- [Arb-Inc All-in-Dex](https://arbitrage-inc.exchange) ([source code](https://github.com/arbincept/Arb-Inc-All-in-Dex)) - Open-source DEX aggregator with routed swaps, cross-chain bridging, and limit orders
+- [Arb-Inc All-in-Dex](https://arbitrage-inc.exchange) ([source code](https://github.com/arbincept/Arb-Inc-All-in-Dex)) - Open-source, non-custodial DEX aggregator with routed swaps, on-chain limit orders, Mayan Finance cross-chain bridging, and deterministic real-yield fee distribution
 
 ### Solana
 - [Jupiter](https://jup.ag) ([source code](https://github.com/jup-ag)) - Leading Solana DEX aggregator with limit orders and DCA
